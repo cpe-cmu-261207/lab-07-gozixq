@@ -1,4 +1,4 @@
-## Lab 07 : React Todo List 
+## Lab 07 : React Todo List
 
 ให้นักศึกษาสร้าง Web App “Todo list” อย่างง่าย โดยใช้ภาษา Html, CSS และ JavaScript (React) ซึ่งมีความต้องการดังต่อไปนี้
 
@@ -15,4 +15,4 @@ npm run dev
 
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
-(ใส่ URL ที่นี่)
+https://codesandbox.io/s/small-fire-b9pfdj
